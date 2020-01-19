@@ -3,7 +3,7 @@
 
 Projeto da 3ª avaliação da disciplina de Técnicas de Programação 2019.2
 
-Aplicação do ThermoBeer com a framework Qt, a  e o microcontrolador ESP8266.
+Aplicação do Meown com a framework Qt e o microcontrolador ESP8266.
 
 Feito por [Eduardo Freitas](https://github.com/EduFreit4s) e [Anne dos Santos](https://github.com/AnneSaint)
 
