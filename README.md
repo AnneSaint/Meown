@@ -1,6 +1,8 @@
 # Meown 
 Alimentador Automático de Gatos
+
 Projeto da 3ª avaliação da disciplina de Técnicas de Programação 2019.2
+
 Feito por [Eduardo Freitas](https://github.com/EduFreit4s) e [Anne dos Santos](https://github.com/AnneSaint)
 
 ## Sumário 
