@@ -20,10 +20,10 @@ Feito por [Eduardo Freitas](https://github.com/EduFreit4s) e [Anne](https://gith
     * [Nível de Alimento](https://github.com/AnneSaint/Meown/blob/master/README.md#n%C3%ADvel-de-alimento)
     * [Tempo Médio de Refeição](https://github.com/AnneSaint/Meown/blob/master/README.md#tempo-m%C3%A9dio-de-refei%C3%A7%C3%A3o)
     * [Número de Refeições](https://github.com/AnneSaint/Meown/blob/master/README.md#n%C3%BAmero-de-refei%C3%A7%C3%B5es)
-* [Informações Técnicas]()
-  * [Materiais]()
-  * [Circuito]()
-  * [Página Web]()
+* [Informações Técnicas](https://github.com/AnneSaint/Meown/blob/master/README.md#informa%C3%A7%C3%B5es-t%C3%A9cnicas)
+  * [Materiais](https://github.com/AnneSaint/Meown/blob/master/README.md#materiais)
+  * [Circuito](https://github.com/AnneSaint/Meown/blob/master/README.md#circuito)
+  * [Página Web](https://github.com/AnneSaint/Meown/blob/master/README.md#p%C3%A1gina-web)
 
 
 ## O que é Meown
