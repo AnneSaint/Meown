@@ -2,7 +2,9 @@
 
 
 Projeto da 3ª avaliação da disciplina de Técnicas de Programação 2019.2
+
 Aplicação do Meown com a framework Qt e o microcontrolador NodeMCU 12E ESP8266.
+
 Feito por [Eduardo Freitas](https://github.com/EduFreit4s) e [Anne](https://github.com/AnneSaint)
 
 ## Sumário 
@@ -28,7 +30,8 @@ Feito por [Eduardo Freitas](https://github.com/EduFreit4s) e [Anne](https://gith
 Meown é um projeto criado por alunos do curso de Engenharia Elétrica do IFPB, Campus João Pessoa, com intuito de cronstruir uma máquina que administre automaticamente as doses e quantidade de ração por pet, no caso gatos, de acordo com critérios que promovam o bem estar felino e que mantenha os instintos do animal ativo no ambiente doméstico. 
 ### Por que utilizar o Meown?
 A composição nutricional da maioria das rações para gatos que circulam no comércio é do tipo seca e com uma presença excessiva de sais minerais nela. Ao longo prazo, a nutrição felina torna-se prejudicial, já que o consumo em excesso do alimento acarreta, ao felino beber água, num inchaço no estômago do animal pela absorção dos líquidos pela ração.
-Desarte, foi pensado um modo que possibilite 
+
+Desarte, foi pensado um modo que possibilite um gerenciamento adequado das porções, as quais sejam planejadas de acordo com um intervalo de tempo já estabelecido, a presença felina e a quantidade de refeições, sendo todos esses requisitos ideais para manter o bem estar da saúde do bichano.
 ## Manual do Usuário
 ### Como funciona o Meown
 ### Software do Meown
