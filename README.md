@@ -27,9 +27,9 @@ Feito por [Eduardo Freitas](https://github.com/EduFreit4s) e [Anne](https://gith
 
 
 ## O que é Meown
-Meown é um projeto criado por alunos do curso de Engenharia Elétrica do IFPB, Campus João Pessoa, com intuito de cronstruir uma máquina que administre automaticamente as doses e quantidade de ração por pet, no caso gatos, de acordo com critérios que promovam o bem estar felino e que mantenha os instintos do animal ativo no ambiente doméstico. 
+Meown é um projeto criado por alunos do curso de Engenharia Elétrica do IFPB, Campus João Pessoa, com intuito de cronstruir uma máquina que administre automaticamente as doses e quantidade de ração por pet, como gatos ou cães, de acordo com critérios que promovam o bem estar animal e que mantenha os instintos naturais ativos no ambiente doméstico. 
 ### Por que utilizar o Meown?
-A composição nutricional da maioria das rações para gatos que circulam no comércio é do tipo seca e com uma presença excessiva de sais minerais nela. Ao longo prazo, a nutrição felina torna-se prejudicial, já que o consumo em excesso do alimento acarreta, ao felino beber água, num inchaço no estômago do animal pela absorção dos líquidos pela ração.
+A composição nutricional da maioria das rações para pets que circulam no comércio é do tipo seca e com uma presença excessiva de sais minerais nela. Ao longo prazo, a nutrição felina ou canina, entre outros, torna-se prejudicial, já que o consumo em excesso do alimentos ressecados acarreta, ao beber água, em um inchaço no estômago do animal pela absorção dos líquidos pela ração. Além disso, pode causar  doenças crônicas que possam ser desenvolvidas posteriomente, como diabetes, obesidade, depressão, entre outras.
 
 Desarte, foi pensado um modo que possibilite um gerenciamento adequado das porções, as quais sejam planejadas de acordo com um intervalo de tempo já estabelecido, a presença felina e a quantidade de refeições, sendo todos esses requisitos ideais para manter o bem estar da saúde do bichano.
 ## Manual do Usuário
@@ -44,6 +44,8 @@ Figura 1. Base
 Figura 2. Rampa
 ![Figura 3. Paredes](https://github.com/AnneSaint/Meown/blob/master/paredes.jpg)
 Figura 3. Paredes
+
+Por dentro, o mecanismo de catraca é acionado, se a presença do animal der positiva pelo sensor, assim rotacionando o mecanismo em 90° e liberando pela rampa uma quantidade aproximada de 32 gramas de ração no pote. Contudo, essa condição só será verdadeira caso o intervalo de tempo de 2 horas existir entre as refeições, já que esse é o período ideal para não haver complicações na saúde do animal.
 ### Software do Meown
 #### Monitoramento da Presença Felina
 #### Monitoramento da Quantidade de Ração
