@@ -33,6 +33,7 @@ A composição nutricional da maioria das rações para gatos que circulam no co
 
 Desarte, foi pensado um modo que possibilite um gerenciamento adequado das porções, as quais sejam planejadas de acordo com um intervalo de tempo já estabelecido, a presença felina e a quantidade de refeições, sendo todos esses requisitos ideais para manter o bem estar da saúde do bichano.
 ## Manual do Usuário
+O intuito principal do projeto é que o Meown possa ter acesso a informações do tempo levado para consumir o alimento, a quantidade de ração presente no tanque interior e as vezes que o pet comeu a partir da presença do animal perto do hardware. Para acompanhar essas informações, foi disponibilizado um [site](http://meown-engine.herokuapp.com/), no qual haverá acesso a essas respectivas informações 
 ### Como funciona o Meown
 ### Software do Meown
 #### Monitoramento da Presença Felina
