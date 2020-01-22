@@ -36,9 +36,14 @@ Desarte, foi pensado um modo que possibilite um gerenciamento adequado das porç
 O intuito principal do projeto é que o Meown possa ter acesso a informações do tempo levado para consumir o alimento, a quantidade de ração presente no tanque interior e as vezes que o pet comeu a partir da presença do animal perto do hardware por um sensor ultrassônico. Para acompanhar essas informações, foi disponibilizado um [site](http://meown-engine.herokuapp.com/), no qual haverá acesso a esses respectivos dados para realizar o acompanhanmento direto e via web.
 ### Como funciona o Meown
 O Meown é uma estrutura de madeira com uma tampa, para colocar a ração no tanque, que possui um sensor de presença ultrassônico do animal e, interiomente uma catraca para regular as porções de ração e uma rampa por qual a comida irá escorrer no pote de alimentação do pet.
+
+Estas são as figuras que representam as medições do projeto em centímetros, cm:
 ![Figura 1. Base;](https://github.com/AnneSaint/Meown/blob/master/base.jpg)
+Figura 1. Base
 ![Figura 2. Rampa](https://github.com/AnneSaint/Meown/blob/master/rampas.jpg)
+Figura 2. Rampa
 ![Figura 3. Paredes](https://github.com/AnneSaint/Meown/blob/master/paredes.jpg)
+Figura 3. Paredes
 ### Software do Meown
 #### Monitoramento da Presença Felina
 #### Monitoramento da Quantidade de Ração
