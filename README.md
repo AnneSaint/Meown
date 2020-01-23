@@ -51,11 +51,18 @@ Por dentro, o mecanismo de catraca será acionado, assim rotacionando o mecanism
 
 ### Software do Meown
 O software do projeto foi montado na interface QT Creator como forma de mostrar na tela os dados coletados pelos sensores aplicados na estrutura do Meown.
-![Figura 5. Interface "Home" do Meown]()
+![Figura 5. Interface "Home" do Meown](https://github.com/AnneSaint/Meown/blob/master/home_qt.png)
+Figura 5. Interface "Home" do Meown
 #### Monitoramento da Presença Felina
-
+A presença do aminal por um sensor ultrassônico na extremidade da tampa medirá a existência de uma obstrução dos dados, uma oscilação incomum das informações coletadas, assim demonstrando e acionando como verdadeira a companhia do pet no pote de alimento.
 #### Monitoramento da Quantidade de Ração
+Outro sensor, do mesmo da presença felina, está localizado no outra extremidade da tampa medindo a quantidade de ração pela distância entre o topo da pilha de ração e a tampa.
+![Figura 6. Interface "Conexão" do Meown](https://github.com/AnneSaint/Meown/blob/master/conexao_qt.png)
+Figura 6. Interface "Conexão" do Meown
 #### Período de Tempo Minimo para a Alimentação
+Utilizando o primeiro sensor, será registrado o tempo que o pet fica no pote comendo pelo tempo que a oscilação os dados sairem do normal, assim coletando os minutos levados para a ração ser comida.
+![Figura 7. Interface "Estatísticas" do Meown](https://github.com/AnneSaint/Meown/blob/master/estatisticas_qt.png)
+Figura 7. Interface "Estatísticas" do Meown
 ### Utilizando o site do Meown
 #### Nível de Alimento
 #### Tempo Médio de Refeição
