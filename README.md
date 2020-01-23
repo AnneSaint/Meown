@@ -47,7 +47,7 @@ Figura 3. Paredes
 
 Por dentro, o mecanismo de catraca será acionado, assim rotacionando o mecanismo em 90° e liberando pela rampa uma quantidade aproximada de 32 gramas de ração no pote. Desse modo, essa condição só será verdadeira caso o intervalo de tempo de horas, definidos anteriomente existir entre as refeições, já que esse é o período ideal para não haver complicações na saúde do animal.
 
-![Figura 4. Catraca Interna]()
+![Figura 4. Catraca Interna](https://github.com/AnneSaint/Meown/blob/master/catraca%20.jpg)
 
 ### Software do Meown
 O software do projeto foi montado na interface QT Creator como forma de mostrar na tela os dados coletados pelos sensores aplicados na estrutura do Meown.
