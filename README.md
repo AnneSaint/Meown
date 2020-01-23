@@ -1,4 +1,4 @@
-# Meown - Alimentador Automático de Gatos
+# Meown - Alimentador Automático de Pets
 
 
 Projeto da 3ª avaliação da disciplina de Técnicas de Programação 2019.2
@@ -8,7 +8,7 @@ Aplicação do Meown com a framework Qt e o microcontrolador NodeMCU 12E ESP8266
 Feito por [Eduardo Freitas](https://github.com/EduFreit4s) e [Anne](https://github.com/AnneSaint)
 
 ## Sumário 
-* [O que é o Meown](https://github.com/AnneSaint/Meown/blob/master/README.md#o-que-%C3%A9-meown)
+* [Sobre o Meown](https://github.com/AnneSaint/Meown/blob/master/README.md#o-que-%C3%A9-meown)
   * [Por que utilizar o Meown?](https://github.com/AnneSaint/Meown/blob/master/README.md#por-que-utilizar-o-meown)
 * [Manual do Usuário](https://github.com/AnneSaint/Meown/blob/master/README.md#manual-do-usu%C3%A1rio)
   * [Como funciona o Meown](https://github.com/AnneSaint/Meown/blob/master/README.md#como-funciona-o-meown)
@@ -26,7 +26,7 @@ Feito por [Eduardo Freitas](https://github.com/EduFreit4s) e [Anne](https://gith
   * [Página Web](https://github.com/AnneSaint/Meown/blob/master/README.md#p%C3%A1gina-web)
 
 
-## O que é Meown
+## Sobre Meown
 Meown é um projeto criado por alunos do curso de Engenharia Elétrica do IFPB, Campus João Pessoa, com intuito de cronstruir uma máquina que administre automaticamente as doses e quantidade de ração por pet, como gatos ou cães, de acordo com critérios que promovam o bem estar animal e que mantenha os instintos naturais ativos no ambiente doméstico. 
 ### Por que utilizar o Meown?
 A composição nutricional da maioria das rações para pets que circulam no comércio é do tipo seca e com uma presença excessiva de sais minerais nela. Ao longo prazo, a nutrição felina ou canina, entre outros, torna-se prejudicial, já que o consumo em excesso do alimentos ressecados acarreta, ao beber água, em um inchaço no estômago do animal pela absorção dos líquidos pela ração. Além disso, pode causar  doenças crônicas que possam ser desenvolvidas posteriomente, como diabetes, obesidade, depressão, entre outras.
@@ -39,15 +39,20 @@ O Meown é uma estrutura de madeira com uma tampa, para colocar a ração no tan
 
 Estas são as figuras que representam as medições do projeto em centímetros, cm:
 ![Figura 1. Base;](https://github.com/AnneSaint/Meown/blob/master/base.jpg)
-Figura 1. Base
+Figura 1. Base e estrutura básica da catraca
 ![Figura 2. Rampa](https://github.com/AnneSaint/Meown/blob/master/rampas.jpg)
 Figura 2. Rampa
 ![Figura 3. Paredes](https://github.com/AnneSaint/Meown/blob/master/paredes.jpg)
 Figura 3. Paredes
 
-Por dentro, o mecanismo de catraca é acionado, se a presença do animal der positiva pelo sensor, assim rotacionando o mecanismo em 90° e liberando pela rampa uma quantidade aproximada de 32 gramas de ração no pote. Contudo, essa condição só será verdadeira caso o intervalo de tempo de 2 horas existir entre as refeições, já que esse é o período ideal para não haver complicações na saúde do animal.
+Por dentro, o mecanismo de catraca será acionado, assim rotacionando o mecanismo em 90° e liberando pela rampa uma quantidade aproximada de 32 gramas de ração no pote. Desse modo, essa condição só será verdadeira caso o intervalo de tempo de horas, definidos anteriomente existir entre as refeições, já que esse é o período ideal para não haver complicações na saúde do animal.
+
+![Figura 4. Catraca Interna]()
+
 ### Software do Meown
+O software do projeto foi montado na interface QT Creator como forma de mostrar na tela os dados coletados pelos sensores aplicados na estrutura do Meown.
 #### Monitoramento da Presença Felina
+
 #### Monitoramento da Quantidade de Ração
 #### Período de Tempo Minimo para a Alimentação
 ### Utilizando o site do Meown
