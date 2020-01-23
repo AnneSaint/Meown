@@ -51,6 +51,7 @@ Por dentro, o mecanismo de catraca será acionado, assim rotacionando o mecanism
 
 ### Software do Meown
 O software do projeto foi montado na interface QT Creator como forma de mostrar na tela os dados coletados pelos sensores aplicados na estrutura do Meown.
+![Figura 5. Interface "Home" do Meown]()
 #### Monitoramento da Presença Felina
 
 #### Monitoramento da Quantidade de Ração
