@@ -8,7 +8,7 @@ Aplicação do Meown com a framework Qt e o microcontrolador NodeMCU 12E ESP8266
 Feito por [Eduardo Freitas](https://github.com/EduFreit4s) e [Anne](https://github.com/AnneSaint)
 
 ## Sumário 
-* [Sobre o Meown](https://github.com/AnneSaint/Meown/blob/master/README.md#o-que-%C3%A9-meown)
+* [Sobre o Meown](https://github.com/AnneSaint/Meown/blob/master/README.md#sobre-meown)
   * [Por que utilizar o Meown?](https://github.com/AnneSaint/Meown/blob/master/README.md#por-que-utilizar-o-meown)
 * [Manual do Usuário](https://github.com/AnneSaint/Meown/blob/master/README.md#manual-do-usu%C3%A1rio)
   * [Como funciona o Meown](https://github.com/AnneSaint/Meown/blob/master/README.md#como-funciona-o-meown)
