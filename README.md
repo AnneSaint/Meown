@@ -18,7 +18,7 @@ Feito por [Eduardo Freitas](https://github.com/EduFreit4s) e [Anne](https://gith
     * [Período de Tempo Minimo para a Alimentação](https://github.com/AnneSaint/Meown/blob/master/README.md#per%C3%ADodo-de-tempo-minimo-para-a-alimenta%C3%A7%C3%A3o)
   * [Utilizando o site do Meown](https://github.com/AnneSaint/Meown/blob/master/README.md#utilizando-o-site-do-meown)
     * [Nível de Alimento](https://github.com/AnneSaint/Meown/blob/master/README.md#n%C3%ADvel-de-alimento)
-    * [Tempo Médio de Refeição](https://github.com/AnneSaint/Meown/blob/master/README.md#tempo-m%C3%A9dio-de-refei%C3%A7%C3%A3o)
+    * [Tempo de Refeição](https://github.com/AnneSaint/Meown/blob/master/README.md#tempo-m%C3%A9dio-de-refei%C3%A7%C3%A3o)
     * [Número de Refeições](https://github.com/AnneSaint/Meown/blob/master/README.md#n%C3%BAmero-de-refei%C3%A7%C3%B5es)
 * [Informações Técnicas](https://github.com/AnneSaint/Meown/blob/master/README.md#informa%C3%A7%C3%B5es-t%C3%A9cnicas)
   * [Materiais](https://github.com/AnneSaint/Meown/blob/master/README.md#materiais)
@@ -70,10 +70,30 @@ Utilizando o primeiro sensor, será registrado o tempo que o pet fica no pote co
 
 Figura 7. Interface "Estatísticas" do Meown
 ### Utilizando o site do Meown
+O [site](http://meown-engine.herokuapp.com) criado no heroukuapp.com utilizando html é uma ferramnta utilizada para o acompanhamento de dados registrados pelos sensores na estrutura física do Meown.
+
+![Figura 8. Interface primária do site do Alimentador Inteligente para Pets](https://github.com/AnneSaint/Meown/blob/master/heroku_meonw_semconexoes.png)
+
+Figura 8. Interface primária do site do Alimentador Inteligente para Pets
 #### Nível de Alimento
-#### Tempo Médio de Refeição
+O nível de alimento registrado de acordo com o sensor é registrado e colocado na tela se está cheio, pouca ração ou vazio..
+
+![Figura 9. Interface mostrando o nível do alimento](https://github.com/AnneSaint/Meown/blob/master/heroku_meown_umaconexao.png)
+
+Figura 9. Interface mostrando o nível do alimento
+#### Tempo de Refeição
+O tempo é medido pelas oscilações de dados registrados pelo sensor ultrassônico em minutos:
+
+![Figura 10. Interface mostrando o tempo aproximado da refeição](https://github.com/AnneSaint/Meown/blob/master/heroku_meown_duasconexoes.png)
+
+Figura 10. Interface mostrando o tempo aproximado da refeição
 #### Número de Refeições
-## Informações Técnicas
+Por último, o site registra quantas vezes o animal se alimentou pelo número de aparições perto do pote em um intervalo de 24 horas:
+
+![Figura 11. Interface mostrando todos os dados coletados](https://github.com/AnneSaint/Meown/blob/master/heroku_meown_todasconexoes.png)
+
+Figura 11. Interface mostrando todos os dados coletados
+## Informações Técnicas 
 ### Materiais
 ### Circuito
 ### Página Web
