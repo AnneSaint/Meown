@@ -96,7 +96,7 @@ Figura 11. Interface mostrando todos os dados coletados
 ## Informações Técnicas 
 ### Materiais
 * ENodeMCU 12E ESP8266
-* Sensor Ultrassõnico HC-SR04
-* Dois Motores de Passos
+* Dois Sensores Ultrassõnico HC-SR04
+* Motor de Passos
 ### Circuito
 ### Página Web
