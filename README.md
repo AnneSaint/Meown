@@ -95,8 +95,8 @@ Por último, o site registra quantas vezes o animal se alimentou pelo número de
 Figura 11. Interface mostrando todos os dados coletados
 ## Informações Técnicas 
 ### Materiais
-* Dois ENodeMCU 12E ESP8266
+* ENodeMCU 12E ESP8266
 * Sensor Ultrassõnico HC-SR04
-* Motor de Passos
+* Dois Motor de Passos
 ### Circuito
 ### Página Web
