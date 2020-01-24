@@ -76,7 +76,7 @@ O [site](http://meown-engine.herokuapp.com) criado no heroukuapp.com utilizando 
 
 Figura 8. Interface primária do site do Alimentador Inteligente para Pets
 #### Nível de Alimento
-O nível de alimento registrado de acordo com o sensor é registrado e colocado na tela se está cheio, pouca ração ou vazio..
+O nível de alimento registrado de acordo com o sensor é registrado e colocado na tela se está cheio, mais da metade, menos da metade, quase vazio e vazio.
 
 ![Figura 9. Interface mostrando o nível do alimento](https://github.com/AnneSaint/Meown/blob/master/heroku_meown_umaconexao.png)
 
