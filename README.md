@@ -31,7 +31,7 @@ Meown é um projeto criado por alunos do curso de Engenharia Elétrica do IFPB, 
 ### Por que utilizar o Meown?
 A composição nutricional da maioria das rações para pets que circulam no comércio é do tipo seca e com uma presença excessiva de sais minerais nela. Ao longo prazo, a nutrição felina ou canina, entre outros, torna-se prejudicial, já que o consumo em excesso do alimentos ressecados acarreta, ao beber água, em um inchaço no estômago do animal pela absorção dos líquidos pela ração. Além disso, pode causar  doenças crônicas que possam ser desenvolvidas posteriomente, como diabetes, obesidade, depressão, entre outras.
 
-Desarte, foi pensado um modo que possibilite um gerenciamento adequado das porções, as quais sejam planejadas de acordo com um intervalo de tempo já estabelecido, a presença felina e a quantidade de refeições, sendo todos esses requisitos ideais para manter o bem estar da saúde do bichano.
+Dessarte, foi pensado um modo que possibilite um gerenciamento adequado das porções, as quais sejam planejadas de acordo com um intervalo de tempo já estabelecido, a presença felina e a quantidade de refeições, sendo todos esses requisitos ideais para manter o bem estar da saúde do bichano.
 ## Manual do Usuário
 O intuito principal do projeto é que o Meown possa ter acesso a informações do tempo levado para consumir o alimento, a quantidade de ração presente no tanque interior e as vezes que o pet comeu a partir da presença do animal perto do hardware por um sensor ultrassônico. Para acompanhar essas informações, foi disponibilizado um [site](http://meown-engine.herokuapp.com/), no qual haverá acesso a esses respectivos dados para realizar o acompanhanmento direto e via web.
 ### Como funciona o Meown
@@ -76,7 +76,7 @@ O [site](http://meown-engine.herokuapp.com) criado no heroukuapp.com utilizando 
 
 Figura 8. Interface primária do site do Alimentador Inteligente para Pets
 #### Nível de Alimento
-O nível de alimento registrado de acordo com o sensor é registrado e colocado na tela se está cheio, mais da metade, menos da metade, quase vazio e vazio.
+O nível de alimento registrado de acordo com o sensor é registrado e colocado na tela se está cheio, mais da metade, menos da metade, quase vazio ou vazio.
 
 ![Figura 9. Interface mostrando o nível do alimento](https://github.com/AnneSaint/Meown/blob/master/heroku_meown_umaconexao.png)
 
