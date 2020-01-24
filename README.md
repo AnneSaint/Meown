@@ -18,7 +18,7 @@ Feito por [Eduardo Freitas](https://github.com/EduFreit4s) e [Anne](https://gith
     * [Período de Tempo Minimo para a Alimentação](https://github.com/AnneSaint/Meown/blob/master/README.md#per%C3%ADodo-de-tempo-minimo-para-a-alimenta%C3%A7%C3%A3o)
   * [Utilizando o site do Meown](https://github.com/AnneSaint/Meown/blob/master/README.md#utilizando-o-site-do-meown)
     * [Nível de Alimento](https://github.com/AnneSaint/Meown/blob/master/README.md#n%C3%ADvel-de-alimento)
-    * [Tempo de Refeição](https://github.com/AnneSaint/Meown/blob/master/README.md#tempo-m%C3%A9dio-de-refei%C3%A7%C3%A3o)
+    * [Tempo de Refeição](https://github.com/AnneSaint/Meown/blob/master/README.md#tempo-de-refei%C3%A7%C3%A3o)
     * [Número de Refeições](https://github.com/AnneSaint/Meown/blob/master/README.md#n%C3%BAmero-de-refei%C3%A7%C3%B5es)
 * [Informações Técnicas](https://github.com/AnneSaint/Meown/blob/master/README.md#informa%C3%A7%C3%B5es-t%C3%A9cnicas)
   * [Materiais](https://github.com/AnneSaint/Meown/blob/master/README.md#materiais)
