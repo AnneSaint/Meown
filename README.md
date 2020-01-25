@@ -22,8 +22,7 @@ Feito por [Eduardo Freitas](https://github.com/EduFreit4s) e [Anne](https://gith
     * [Número de Refeições](https://github.com/AnneSaint/Meown/blob/master/README.md#n%C3%BAmero-de-refei%C3%A7%C3%B5es)
 * [Informações Técnicas](https://github.com/AnneSaint/Meown/blob/master/README.md#informa%C3%A7%C3%B5es-t%C3%A9cnicas)
   * [Materiais](https://github.com/AnneSaint/Meown/blob/master/README.md#materiais)
-  * [Circuito](https://github.com/AnneSaint/Meown/blob/master/README.md#circuito)
-  * [Página Web](https://github.com/AnneSaint/Meown/blob/master/README.md#p%C3%A1gina-web)
+  * [Contatos]()
 
 
 ## Sobre Meown
@@ -98,5 +97,7 @@ Figura 11. Interface mostrando todos os dados coletados
 * ENodeMCU 12E ESP8266
 * Dois Sensores Ultrassõnico HC-SR04
 * Motor de Passos
-### Circuito
-### Página Web
+### Contados
+Antonio Batista: neto.batista@academico.ifpb.edu.br
+José Eduardo: edufreitas.pb@gmail.com
+
